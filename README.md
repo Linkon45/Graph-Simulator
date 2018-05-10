@@ -1,2 +1,2 @@
 # Graph-Simulator
-Project for OOP Lab Course (CSE_SUST)
+Project for 2nd Year OOP Lab Course (CSE_SUST)
